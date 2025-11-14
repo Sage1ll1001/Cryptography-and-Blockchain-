@@ -1,4 +1,4 @@
-# 🔐 Cryptography & Blockchain Fundamentals – Menu-Driven App
+# Cryptography & Blockchain Fundamentals – Menu-Driven App
 
 A Python-based console application demonstrating core cryptography concepts:
 
@@ -8,35 +8,35 @@ A Python-based console application demonstrating core cryptography concepts:
 
 This project is part of the **Cryptography & Blockchain Fundamentals Assignment**.
 
-## 🎯 Objective
+##  Objective
 
 The app allows users to:
 
-### 🧩 1. SHA-256 Hashing
+###  1. SHA-256 Hashing
 
 * Input any message
 * Generate and display its **SHA-256 hash**
 
-### ✍️ 2. Digital Signature (RSA)
+###  2. Digital Signature (RSA)
 
 * Generate a **public–private key pair**
 * Enter a message
 * Sign it using the **private key**
 * Verify the signature using the **public key**
 
-### 🚗 3. Vehicle Registration System
+###  3. Vehicle Registration System
 
 * Register a vehicle
 * Retrieve vehicle info by number plate
 * Prevent duplicate number plates
 * Store: `number_plate`, `owner_name`, `model`
 
-### 🧭 Bonus
+###  Bonus
 
 The entire application is **menu-driven**, looping until the user chooses Exit.
 
 
-## 📌 Menu Preview
+##  Menu Preview
 
 ```
 ========== CRYPTOGRAPHY & BLOCKCHAIN APP ==========
@@ -50,15 +50,15 @@ The entire application is **menu-driven**, looping until the user chooses Exit.
 
 ---
 
-## 🛠 Features Explained
+##  Features Explained
 
-### 🔒 **1. SHA-256 Hash Generator**
+###  **1. SHA-256 Hash Generator**
 
 * Takes user message
 * Uses Python’s `hashlib`
 * Generates a secure SHA-256 hash
 
-### ✍️ **2. Digital Signature (RSA)**
+###  **2. Digital Signature (RSA)**
 
 Steps:
 
@@ -70,7 +70,7 @@ Steps:
 
 Uses the Python `rsa` library.
 
-### 🚗 **3. Vehicle Registration System**
+###  **3. Vehicle Registration System**
 
 Stored in a Python dictionary:
 
@@ -86,7 +86,7 @@ vehicles = {
 
 ---
 
-## 🧪 Example Output
+##  Example Output
 
 ### SHA-256
 
@@ -115,7 +115,7 @@ Model: Honda City
 
 ---
 
-## 📘 Learning Outcomes
+##  Learning Outcomes
 
 ✔ Understanding SHA-256 hashing
 ✔ Implementing RSA digital signatures
@@ -125,6 +125,6 @@ Model: Honda City
 ✔ Real-world use of cryptography concepts
 
 
-## 👨‍💻 Author:-Sagar Singh
+##  Author:-Sagar Singh
 Cryptography & Blockchain Fundamentals – Python Assignment
 
